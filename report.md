@@ -45,13 +45,22 @@ As a Student Digital Ambassador, I have documented my journey through five modul
 
 ---
 
-## 💡 Learning Outcomes & Conclusion
-Through this project, I have developed the following skills:
-1. **Technical Proficiency**: Managing version control via GitHub and solving algorithmic problems in Python.
-2. **Professionalism**: Networking on LinkedIn and maintaining formal email standards.
-3. **Cyber Awareness**: Protecting personal and academic data from modern digital threats.
+## 💡 Reflection: Challenges, Tools, and Insights
+One of the most significant learning curves in this project involved navigating the technical structure of GitHub; initially, I made the common mistake of creating empty files instead of actual directories for my tasks. Correcting this taught me how version control truly organizes data. Another challenge was ensuring my digital identity accurately reflected my position as a Mechanical Engineering student while showcasing my technical proficiency in Python.
 
-This project serves as a foundation for my four-year journey at VIT Bhopal, ensuring I can collaborate effectively on core engineering projects while maintaining a secure and professional digital identity.
+The most exciting and interesting part of this journey was working with Canva. As someone in a core engineering branch, learning to translate complex digital safety concepts into a visually compelling infographic was a creative breakthrough. It showed me that technical communication isn't just about data, but also about design and accessibility. Exploring professional platforms like LinkedIn and Kaggle was equally impactful; setting up these accounts forced me to think about my long-term career trajectory and how to document my growth in Propulsion and Rocket Dynamics alongside my coding skills.
+
+I utilized a diverse tech stack to complete these modules, including:
+
+- Canva: For high-fidelity visual design and infographics.
+
+- GitHub: For version control and project hosting.
+
+- HackerRank: For verifying my logic and Python syntax.
+
+- Google Workspace: For cloud collaboration and data collection.
+
+- Obsidian: For drafting my initial reflections and organizing my project notes.
 
 ---
 **Repository Link**: [https://github.com/Prathamesh-Patil-A/Digital-Literacy-Project]
